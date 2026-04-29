@@ -1,0 +1,6 @@
+- id: format-olca-json
+  name: Format openLCA JSON
+  description: Reshape single- to multi-line JSON; sort keys and object-array elements.
+  entry: format-olca-json
+  language: python
+  types: [json]
